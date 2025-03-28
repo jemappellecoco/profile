@@ -6,6 +6,9 @@
 <h1 id="🧠-yu-hui-chang-coco">🧠 YU-HUI CHANG (Coco)</h1>
 <p><strong>AI Product Manager | Bilingual | Creative Technologist</strong><br>
 📍 Taoyuan, Taiwan ｜📞 0975-569-645 ｜✉️ <a href="mailto:q4266213coco@gmail.com">q4266213coco@gmail.com</a></p>
+<p align="center">
+  <img src="images/face.jpg" width="160" style="border-radius: 50%;" alt="Coco's profile picture">
+</p>
 <hr>
 <h2 id="📝-about-me">📝 About Me</h2>
 <p>With hands-on experience in NLP and generative AI, I enjoy turning “what if” ideas into real products that people actually find useful and fun.<br>
