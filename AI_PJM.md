@@ -9,7 +9,6 @@
         <p>📍 Taoyuan, Taiwan ｜ 📞 0975-569-645 ｜ ✉️ <a href="mailto:q4266213coco@gmail.com">q4266213coco@gmail.com</a></p>
       </td>
       <td style="vertical-align: middle;">
-        
         <img src="images/me.jpg" width="140" style="border-radius: 12px;">
       </td>
     </tr>
@@ -115,6 +114,5 @@ I’m naturally curious, love chatting with teammates to exchange ideas, and oft
 <li><strong>Email</strong>: <a href="mailto:q4266213coco@gmail.com">q4266213coco@gmail.com</a></li>
 <li><strong>Phone</strong>: 0975-569-645</li>
 <li><strong>Location</strong>: Taoyuan, Taiwan</li>
-<li><strong>LinkedIn / GitHub / Portfolio</strong>: <em>[Add links here]</em></li>
 </ul>
 
