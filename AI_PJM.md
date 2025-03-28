@@ -1,14 +1,21 @@
 ---
 
+<div align="center">
+  <table style="border: none;">
+    <tr>
+      <td style="vertical-align: middle; padding-right: 20px;">
+        <h1>🧠 YU-HUI CHANG (Coco)</h1>
+        <p><strong>AI Product Manager | Bilingual | Creative Technologist</strong></p>
+        <p>📍 Taoyuan, Taiwan ｜ 📞 0975-569-645 ｜ ✉️ <a href="mailto:q4266213coco@gmail.com">q4266213coco@gmail.com</a></p>
+      </td>
+      <td style="vertical-align: middle;">
+        <img src="images/me.jpg" width="140" style="border-radius: 12px;">
+      </td>
+    </tr>
+  </table>
+</div>
 
----
 
-<h1 id="🧠-yu-hui-chang-coco">🧠 YU-HUI CHANG (Coco)</h1>
-<p><strong>AI Product Manager | Bilingual | Creative Technologist</strong><br>
-📍 Taoyuan, Taiwan ｜📞 0975-569-645 ｜✉️ <a href="mailto:q4266213coco@gmail.com">q4266213coco@gmail.com</a></p>
-<p align="center">
-  <img src="images/me.jpg" width="160" style="border-radius: 50%;" alt="Coco's profile picture">
-</p>
 <hr>
 <h2 id="📝-about-me">📝 About Me</h2>
 <p>With hands-on experience in NLP and generative AI, I enjoy turning “what if” ideas into real products that people actually find useful and fun.<br>
@@ -17,7 +24,7 @@ Working in a bilingual environment every day, I’m comfortable switching betwee
 I’m naturally curious, love chatting with teammates to exchange ideas, and often gather different perspectives to help shape better and more thoughtful products.</p>
 <hr>
 <h2 id="🔧-skills">🔧 Skills</h2>
-
+<div align="center">
 <table>
 <thead>
 <tr>
@@ -43,7 +50,7 @@ I’m naturally curious, love chatting with teammates to exchange ideas, and oft
 <td>Mandarin (Native), English (Fluent)</td>
 </tr>
 </tbody>
-</table><hr>
+</table><hr></div>
 <h2 id="💼-professional-experience">💼 Professional Experience</h2>
 <h3 id="ai-engineer">AI Engineer</h3>
 <p><strong>Confidential Company</strong> ｜ <em>Aug 2024 – Feb 2025</em></p>
