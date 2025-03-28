@@ -102,7 +102,7 @@ I’m naturally curious, love chatting with teammates to exchange ideas, and oft
   <li>Strengthened public speaking and cross-cultural communication skills in a high-level academic setting</li>
 </ul>
 <p align="center">
-  <img src="profile/images/eanm2022.jpg" width="300" alt="EANM 2022 – Coco presenting">
+  <img src="images/eanm2022.jpg" width="300" alt="EANM 2022 – Coco presenting">
 </p>
 
 <h2 id="📎-contact">📎 Contact</h2>
