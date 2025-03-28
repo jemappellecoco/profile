@@ -56,15 +56,15 @@ I’m naturally curious, love chatting with teammates to exchange ideas, and oft
 <p><strong>Stonebooks Education Studio</strong> ｜ <em>Dec 2021 – Present</em></p>
 <ul>
 <li>Designed and delivered personalized English and STEM courses for students from elementary to high school</li>
-<li>Integrated AI-powered tools (e.g., grammar bots) to enhance learning</li>
-<li>Communicated with parents and tracked academic progress</li>
+<li>Emphasized logic-based teaching with a focus on math and science subjects, blending structured instruction with interactive discussion</li>
+<li>Communicated closely with parents to monitor academic progress and adapt teaching strategies accordingly</li>
 </ul>
 <h3 id="swimming-instructor-certified">Swimming Instructor (Certified)</h3>
 <p><strong>Freelance</strong> ｜ <em>2016 – 2020</em></p>
 <ul>
 <li>Taught beginner to advanced-level swimming across all age groups</li>
-<li>Emphasized logic-based teaching with a focus on math and science subjects, blending structured instruction with interactive discussion</li>
-<li>Communicated closely with parents to monitor academic progress and adapt teaching strategies accordingly</li>
+<li>Adjusted techniques based on individual comfort levels and feedback</li>
+<li>Built strong observation and empathy skills—core to my user-centered mindset  </li>
 <li><strong>Certification</strong>: Swimming Instructor License</li>
 </ul>
 <hr>
