@@ -9,6 +9,7 @@
         <p>📍 Taoyuan, Taiwan ｜ 📞 0975-569-645 ｜ ✉️ <a href="mailto:q4266213coco@gmail.com">q4266213coco@gmail.com</a></p>
       </td>
       <td style="vertical-align: middle;">
+        
         <img src="images/me.jpg" width="140" style="border-radius: 12px;">
       </td>
     </tr>
@@ -100,6 +101,10 @@ I’m naturally curious, love chatting with teammates to exchange ideas, and oft
   <li>Presented an e-poster showcasing a deep learning model designed to predict improvements after coronary intervention</li>
   <li>Interacted with international researchers and medical professionals, discussing technical insights and clinical applications</li>
   <li>Strengthened public speaking and cross-cultural communication skills in a high-level academic setting</li>
+  <p>📄 <a href="profile/images/Attendance_Certificate_YChang_1.pdf" target="_blank">
+  Certificate of Attendance – EANM 2022 (PDF)
+</a></p>
+
 </ul>
 <p align="center">
   <img src="images/eanm2022.jpg" width="300" alt="EANM 2022 – Coco presenting">
