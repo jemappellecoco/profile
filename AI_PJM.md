@@ -92,6 +92,19 @@ I’m naturally curious, love chatting with teammates to exchange ideas, and oft
 <li>Thesis applied machine learning to real-world healthcare prediction tasks</li>
 </ul>
 <hr>
+<h2 id="🎤-conference-presentation"> Conference Presentation</h2>
+<h3>EANM 2022 – European Association of Nuclear Medicine Annual Congress</h3>
+<p><strong>📍 Barcelona, Spain ｜ 🗓️ October 2022</strong></p>
+<ul>
+  <li>Delivered an oral presentation on my research project related to AI-driven myocardial perfusion imaging using CZT-SPECT</li>
+  <li>Presented an e-poster showcasing a deep learning model designed to predict improvements after coronary intervention</li>
+  <li>Interacted with international researchers and medical professionals, discussing technical insights and clinical applications</li>
+  <li>Strengthened public speaking and cross-cultural communication skills in a high-level academic setting</li>
+</ul>
+<p align="center">
+  <img src="profile/images/eanm2022.jpg" width="300" alt="EANM 2022 – Coco presenting">
+</p>
+
 <h2 id="📎-contact">📎 Contact</h2>
 <ul>
 <li><strong>Email</strong>: <a href="mailto:q4266213coco@gmail.com">q4266213coco@gmail.com</a></li>
